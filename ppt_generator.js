@@ -13,45 +13,45 @@
                 x: 58+7,
                 y: 58+8,
                 r: 58,
-                text: 'REAÇÃO DE\n LULA'
+                text: 'REAÇÃO DE\n BOLSONARO'
             },
             {
                 x: 58+7+(58*2)+6,
                 y: 58+8,
                 r: 58,
-                text: 'DEPOI-\nMENTOS'
+                text: 'PARTIDOS C-\nORRUPTOS'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13,
                 y: 58+8,
                 r: 58,
-                text: 'PETROLÃO\n+\nPROINO-\nCRACIA',
+                text: 'INCOERÊNCI-AS\nFINANCE-\nIRAS',
                 wrapperClass: 'azul'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17,
                 y: 58+4,
                 r: 58,
-                text: 'GOVER-\nNABILIDADE\nCORROM\n-PIDA'
+                text: 'FUNCIONÁRI-\nOS LARANJA'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17+(58*2)+8,
                 y: 58+4,
                 r: 58,
-                text: 'PODER DE DECISÃO'
+                text: 'IDAS AO BA-\nNCO'
             },
             //second row
             {
                 x: 58+7,
                 y: 58+8+(58*2)+4,
                 r: 58,
-                text: 'EXPRES-\nSIVIDA\nDE'
+                text: 'IMPOSTO DE-\n RENDA'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17+(58*2)+9,
                 y: 58+8+(58*2)-1,
                 r: 58,
-                text: 'PERPE-\nTUAÇÃO\nCRIMINOSA\nNO PODER'
+                text: 'PERPE-\nTUAÇÃO\nFAMILIAR'
             },
             //third row
             {
@@ -66,13 +66,13 @@
                 r: 82,
                 wrapperClass: 'azul lula',
                 font: '24px Calibre, Arial',
-                text: 'LULA'
+                text: 'BOLSONARO'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17+(58*2)+9,
                 y: 58+4+(58*2)+4+(58*2),
                 r: 58,
-                text: 'PESSOAS\nPRÓXI-\nMAS NA\nLAVAJATO'
+                text: 'PESSOAS\nPRÓXI-\nMAS NA\nCOAF'
             },
 
             //last row
@@ -86,25 +86,25 @@
                 x: 58+7+(58*2)+6,
                 y: 58+4+(58*2)+4+(58*2)+(58*2)+5,
                 r: 58,
-                text: 'VÉRTICE\nCOMUM'
+                text: 'DIVERGÊNCI-\nAS PARTIDÁ-\nRIAS'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+15,
                 y: 58+4+(58*2)+4+(58*2)+(58*2)+5,
                 r: 58,
-                text: 'JOSÉ\nDIRCEU'
+                text: 'ONYX LOREN-\nZONI'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17,
                 y: 58+4+(58*2)+4+(58*2)+(58*2)+5,
                 r: 58,
-                text: 'PESSOAS\nPRÓXI-\nMAS NO\nMENSALÃO'
+                text: 'TRANSFERÊN-\nCIAS A MOT-\nORISTA'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17+(58*2)+10,
                 y: 58+4+(58*2)+4+(58*2)+(58*2)+3,
                 r: 58,
-                text: 'MENSALÃO'
+                text: '24 MIL PAG-\nOS A MICHE-\nLE BOLSONA-\nRO'
             },
         ],
 
