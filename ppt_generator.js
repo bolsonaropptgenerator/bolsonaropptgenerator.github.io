@@ -25,27 +25,27 @@
                 x: 58+7+(58*2)+6+(58*2)+13,
                 y: 58+8,
                 r: 58,
-                text: 'INCOERÊNCI-\nAS\nFINANCE-\nIRAS',
+                text: 'INCOERÊNCI-AS\nFINANCE-IRAS',
                 wrapperClass: 'azul'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17,
                 y: 58+4,
                 r: 58,
-                text: 'FUNCIONÁRI-OS LARANJA'
+                text: 'FUNCIONÁRI\n-OS LARANJA'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17+(58*2)+8,
                 y: 58+4,
                 r: 58,
-                text: 'IDAS AO BA-NCO'
+                text: 'IDAS AO BA\n-NCO'
             },
             //second row
             {
                 x: 58+7,
                 y: 58+8+(58*2)+4,
                 r: 58,
-                text: 'IMPOSTO DE- RENDA'
+                text: 'IMPOSTO DE RENDA'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17+(58*2)+9,
@@ -86,7 +86,7 @@
                 x: 58+7+(58*2)+6,
                 y: 58+4+(58*2)+4+(58*2)+(58*2)+5,
                 r: 58,
-                text: 'DIVERGÊNCI-AS PARTIDÁ-RIAS'
+                text: 'DIVERGÊNCIAS PARTIDÁRIAS'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+15,
@@ -98,13 +98,13 @@
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17,
                 y: 58+4+(58*2)+4+(58*2)+(58*2)+5,
                 r: 58,
-                text: 'TRANSFERÊN\n-CIAS A MOT\nORISTA'
+                text: 'TRANSFERÊNCIAS A MOTORISTA'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17+(58*2)+10,
                 y: 58+4+(58*2)+4+(58*2)+(58*2)+3,
                 r: 58,
-                text: '24 MIL PAG-OS A MICHE-LE BOLSONA-RO'
+                text: '24 MIL PAGOS A MICHELE BOLSONARO'
             },
         ],
 
