@@ -25,7 +25,7 @@
                 x: 58+7+(58*2)+6+(58*2)+13,
                 y: 58+8,
                 r: 58,
-                text: 'INCOERÊNCI-AS\nFINANCE-IRAS',
+                text: 'INCOERÊNCIAS\nFINANCEIRAS',
                 wrapperClass: 'azul'
             },
             {
@@ -45,7 +45,7 @@
                 x: 58+7,
                 y: 58+8+(58*2)+4,
                 r: 58,
-                text: 'IMPOSTO DE RENDA'
+                text: 'IMPOSTO DE\nRENDA'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17+(58*2)+9,
