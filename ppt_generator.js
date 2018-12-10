@@ -19,33 +19,33 @@
                 x: 58+7+(58*2)+6,
                 y: 58+8,
                 r: 58,
-                text: 'PARTIDOS C-\nORRUPTOS'
+                text: 'PARTIDOS C\nORRUPTOS'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13,
                 y: 58+8,
                 r: 58,
-                text: 'INCOERÊNCI-AS\nFINANCE-\nIRAS',
+                text: 'INCOERÊNCI-\nAS\nFINANCE-\nIRAS',
                 wrapperClass: 'azul'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17,
                 y: 58+4,
                 r: 58,
-                text: 'FUNCIONÁRI-\nOS LARANJA'
+                text: 'FUNCIONÁRI-OS LARANJA'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17+(58*2)+8,
                 y: 58+4,
                 r: 58,
-                text: 'IDAS AO BA-\nNCO'
+                text: 'IDAS AO BA-NCO'
             },
             //second row
             {
                 x: 58+7,
                 y: 58+8+(58*2)+4,
                 r: 58,
-                text: 'IMPOSTO DE-\n RENDA'
+                text: 'IMPOSTO DE- RENDA'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17+(58*2)+9,
@@ -86,25 +86,25 @@
                 x: 58+7+(58*2)+6,
                 y: 58+4+(58*2)+4+(58*2)+(58*2)+5,
                 r: 58,
-                text: 'DIVERGÊNCI-\nAS PARTIDÁ-\nRIAS'
+                text: 'DIVERGÊNCI-AS PARTIDÁ-RIAS'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+15,
                 y: 58+4+(58*2)+4+(58*2)+(58*2)+5,
                 r: 58,
-                text: 'ONYX LOREN-\nZONI'
+                text: 'ONYX LOREN\n-ZONI'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17,
                 y: 58+4+(58*2)+4+(58*2)+(58*2)+5,
                 r: 58,
-                text: 'TRANSFERÊN-\nCIAS A MOT-\nORISTA'
+                text: 'TRANSFERÊN\n-CIAS A MOT\nORISTA'
             },
             {
                 x: 58+7+(58*2)+6+(58*2)+13+(58*2)+17+(58*2)+10,
                 y: 58+4+(58*2)+4+(58*2)+(58*2)+3,
                 r: 58,
-                text: '24 MIL PAG-\nOS A MICHE-\nLE BOLSONA-\nRO'
+                text: '24 MIL PAG-OS A MICHE-LE BOLSONA-RO'
             },
         ],
 
